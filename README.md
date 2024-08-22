@@ -4,4 +4,4 @@
 ### Projects folder contains the projects that i am doing
 * Basic Feed Forward Neural Networks
 * Age classifier with conv nets and implementation
-* Object detection that detects faces
+* Sentiment analysis
