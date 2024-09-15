@@ -5,3 +5,6 @@
 * Basic Feed Forward Neural Networks
 * Age classifier with conv nets and implementation
 * Sentiment analysis
+* Autoencoders
+    1. Autoencoders
+    2. Variational autoencoders
